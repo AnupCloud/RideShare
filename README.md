@@ -13,40 +13,45 @@ A production-grade analytics dashboard for ridesharing data, built with **FastAP
 - **Payment Methods**: Revenue distribution by payment type.
 - **Top Locations**: Identification of high-revenue pickup and drop-off zones.
 
-![Revenue Analysis](screenshots/tab_revenue.png)
+![Revenue Analysis Top](screenshots/tab_revenue_top.png)
+![Revenue Analysis Bottom](screenshots/tab_revenue_bottom.png)
 
 ### 2. ⭐ Rating Analysis
 - **Rating Distribution**: Histogram of driver and customer ratings.
 - **VTAT Impact**: Correlation between Vehicle Time to Arrival (VTAT) and ratings.
 - **Customer Satisfaction**: Insights into factors affecting customer ratings.
 
-![Rating Analysis](screenshots/tab_ratings.png)
+![Rating Analysis Top](screenshots/tab_ratings_top.png)
+![Rating Analysis Bottom](screenshots/tab_ratings_bottom.png)
 
 ### 3. 🚫 Cancellation Insights
 - **Cancellation Rates**: Metrics on rides cancelled by customers vs. drivers.
 - **Hourly Patterns**: When cancellations are most likely to occur.
 - **Revenue Loss**: Estimated financial impact of cancellations.
 
-![Cancellation Insights](screenshots/tab_cancellation.png)
+![Cancellation Insights](screenshots/tab_cancellation_top.png)
 
 ### 4. 💡 Driver Recommendations
 - **Actionable Insights**: AI-driven recommendations for drivers to improve ratings and earnings.
 - **Performance Tips**: Best practices based on data analysis.
 
-![Driver Recommendations](screenshots/tab_recommendations.png)
+![Driver Recommendations Top](screenshots/tab_recommendations_top.png)
+![Driver Recommendations Bottom](screenshots/tab_recommendations_bottom.png)
 
 ### 5. 📊 Statistical Hypothesis Testing
 - **Rigorous Validation**: Statistical tests (T-tests, Chi-square) to validate business assumptions.
 - **Significance Testing**: P-value analysis for revenue and rating hypotheses.
 
-![Statistical Tests](screenshots/tab_stats.png)
+![Statistical Tests Top](screenshots/tab_stats_top.png)
+![Statistical Tests Bottom](screenshots/tab_stats_bottom.png)
 
 ### 6. 🤖 Predictive Insights (ML)
 - **Revenue Prediction**: Random Forest model to predict ride revenue ($R^2 \approx 0.05$).
 - **Rating Prediction**: Classification model to predict driver ratings (Accuracy $\approx 92\%$).
 - **Feature Importance**: Analysis of key drivers for revenue and ratings.
 
-![Predictive Insights](screenshots/tab_ml.png)
+![Predictive Insights Top](screenshots/tab_ml_top.png)
+![Predictive Insights Bottom](screenshots/tab_ml_bottom.png)
 
 ## 🛠️ Tech Stack
 
